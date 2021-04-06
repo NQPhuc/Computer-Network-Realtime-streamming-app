@@ -1,0 +1,12 @@
+v0 - v3: Implemented all requirement and extend 1,2,3
+v4: 
+	Implemented extend 4,5
+	Add Change PlaybackSpeed
+v5:
+	Implemnted simple convert tool to make more videos for user to watch in the menu
+	Fixed permanently disble "switch video" menu making all further SWITCH action failed, by removing the state check in function switchChannel() of Client.py
+v6:
+	Cleanup Code
+	New bug: sudden drop in fps occasionally
+v7:
+	More cleanup
